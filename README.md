@@ -3,7 +3,7 @@
 A versatile collection of uploaders and media handling components for React applications.
 
 [![npm version](https://img.shields.io/npm/v/@dracu/uploaders.svg)](https://www.npmjs.com/package/@dracu/uploaders)
-[![license](https://img.shields.io/npm/l/@dracu/uploaders.svg)](https://github.com/yourusername/uploaders/blob/main/LICENSE)
+[![license](https://img.shields.io/npm/l/@dracu/uploaders.svg)](https://github.com/dracu-lah/uploaders/blob/main/LICENSE)
 
 ## Features
 
